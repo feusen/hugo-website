@@ -27,11 +27,12 @@ cover:
 
 (Paper work in progress)
 
-This paper is in early stages of development; aiming to have a working abstract and workshop presentation slide deck available this quarter (fall 2025).
+This paper is in early stages of development; aiming to have a working abstract and workshop presentation slide deck available at the end of this quarter (fall 2025).
 
 ##### Abstract
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Housing discrimination can have intense impacts on short-term, long-term, and even intergenerational outcomes in health, education, labor, and crime contributing to racial inequality. This early-stage work seeks to explore how individuals' financial attributes, such as credit score, may "compensate" for demographic-based discrimination in facilitating access to rental housing using UC's Consumer Credit Panel and housing discrimination data generated from the field experiment conducted by Christensen et al. (2021).
+
 
 ---
 
